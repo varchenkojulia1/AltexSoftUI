@@ -322,7 +322,8 @@ h3, h4 {
         border: 1px solid transparent;
         border-radius: 5px;
         padding: 5px;
-        color: #666666; }
+        color: #666666;
+        width: 100%; }
       .footer__top-contact-us input::placeholder,
       .footer__top-contact-us textarea::placeholder {
         color: #666666;
